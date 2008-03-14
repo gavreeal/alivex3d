@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifest SYSTEM "imscp_rootv1p1.dtd">
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="MANIFEST-6971EFA4-1391-578F-D1CE-39875264E76A" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsmd_v1p2 imsmd_v1p2p2.xsd">
+  <metadata>
+  <schema e-dtype="string">IMS Content</schema>
+  <schemaversion e-dtype="string">1.2.2</schemaversion>
+  </metadata>
+  
+<organizations default="default"><organization identifier="default" structure=""><title>Untitled</title>
+<item identifierref="82546a1fb37cf7d7cf759fedc9768d69" identifier="default-82546a1fb37cf7d7cf759fedc9768d69-1" isvisible="false">
+<title>[toc.htm]</title>
+</item>
+<item identifierref="84f7a0fe63cb13593ea50ea6af93a634" identifier="default-84f7a0fe63cb13593ea50ea6af93a634-1" isvisible="false">
+<title>[default.htm]</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource href=".skin/offline.gif" identifier="091fce492d72cafbd6b067db343c8bcf" type="webcontent">
+<file href=".skin/offline.gif"/>
+</resource>
+<resource href=".skin/out-of-sync.gif" identifier="0f8ac87c376ebca9f72f5ce008f2450b" type="webcontent">
+<file href=".skin/out-of-sync.gif"/>
+</resource>
+<resource href=".skin/emailgroup.png" identifier="104d1980c2b5a2d83f22283422b343da" type="webcontent">
+<file href=".skin/emailgroup.png"/>
+</resource>
+<resource href=".skin/offline-modifications.gif" identifier="115cc7d8bec8f94c2564775c4d9ccaa9" type="webcontent">
+<file href=".skin/offline-modifications.gif"/>
+</resource>
+<resource href=".skin/alive.jpg" identifier="19e869fab87f3fb9ad456d7e693d853f" type="webcontent">
+<file href=".skin/alive.jpg"/>
+</resource>
+<resource href=".skin/button_hover.gif" identifier="1cb0130fd291b19d2f44af288cc0911b" type="webcontent">
+<file href=".skin/button_hover.gif"/>
+</resource>
+<resource href=".skin/source.gif" identifier="24adc7ac2fed8d27b055bb8dbeb60a3b" type="webcontent">
+<file href=".skin/source.gif"/>
+</resource>
+<resource href=".skin/usqprint.css" identifier="284fefe0e094d93976fd5634d244e2f8" type="webcontent">
+<file href=".skin/usqprint.css"/>
+</resource>
+<resource href=".skin/slideicon.gif" identifier="2ba6959f03b034cd76378ec8434d9e97" type="webcontent">
+<file href=".skin/slideicon.gif"/>
+</resource>
+<resource href=".skin/logo.jpg" identifier="2c1d0060ad8f492b87e12a4c8d4cc668" type="webcontent">
+<file href=".skin/logo.jpg"/>
+</resource>
+<resource href=".skin/parent-inactive.gif" identifier="37c44180b02d520699a04ac93d66f0f7" type="webcontent">
+<file href=".skin/parent-inactive.gif"/>
+</resource>
+<resource href=".skin/urchin.js" identifier="381076ae99762d02109bb30a95437867" type="webcontent">
+<file href=".skin/urchin.js"/>
+</resource>
+<resource href=".skin/expand.gif" identifier="3a5c7963e3693fd66dc546a3d44c1489" type="webcontent">
+<file href=".skin/expand.gif"/>
+</resource>
+<resource href=".skin/up.gif" identifier="3b73d34f7e1c277bf2a7f791013627c4" type="webcontent">
+<file href=".skin/up.gif"/>
+</resource>
+<resource href=".skin/root-move-here.gif" identifier="3e2bfe03673356e0f154733cf54ceedd" type="webcontent">
+<file href=".skin/root-move-here.gif"/>
+</resource>
+<resource href=".skin/slideous.js" identifier="43ad9a0bb2405ef30d548035e32b05c3" type="webcontent">
+<file href=".skin/slideous.js"/>
+</resource>
+<resource href=".skin/extLink_img.gif" identifier="4803a7cc7427530bb59807ee64668a7b" type="webcontent">
+<file href=".skin/extLink_img.gif"/>
+</resource>
+<resource href=".skin/usq.css" identifier="48da2c9a66803d5e3eaf20ddc915929e" type="webcontent">
+<file href=".skin/usq.css"/>
+</resource>
+<resource href=".skin/inactive_up.gif" identifier="4e5c91271ae9e9fab5c7dc8ceadf2323" type="webcontent">
+<file href=".skin/inactive_up.gif"/>
+</resource>
+<resource href=".skin/ok.gif" identifier="522b03b1ae2f7897174f05b35b14aab1" type="webcontent">
+<file href=".skin/ok.gif"/>
+</resource>
+<resource href=".skin/inactive_next.gif" identifier="580509c5458f8d9aa269f7e6162b9e88" type="webcontent">
+<file href=".skin/inactive_next.gif"/>
+</resource>
+<resource href=".skin/parent.gif" identifier="5efaf14230cf62136ad9358cc386feba" type="webcontent">
+<file href=".skin/parent.gif"/>
+</resource>
+<resource href=".skin/blankLink_img.gif" identifier="666c56ece1c73acc4fd850e80423dee0" type="webcontent">
+<file href=".skin/blankLink_img.gif"/>
+</resource>
+<resource href=".skin/template-login.xhtml" identifier="69f0d0fdd97cd52f3626f82e1ad01557" type="webcontent">
+<file href=".skin/template-login.xhtml"/>
+</resource>
+<resource href=".skin/slide.css" identifier="6e533d3091d6a88d4622cdd63caa29d8" type="webcontent">
+<file href=".skin/slide.css"/>
+</resource>
+<resource href=".skin/button_hover_bg.gif" identifier="7152de1559bff4c0b887a72c5c42e501" type="webcontent">
+<file href=".skin/button_hover_bg.gif"/>
+</resource>
+<resource href=".skin/pdf.gif" identifier="768c058a5baf5c3593b59fcb1a9c8731" type="webcontent">
+<file href=".skin/pdf.gif"/>
+</resource>
+<resource href=".skin/inactive_previous.gif" identifier="7c76d248577af5d3aa1d6b8183f31dec" type="webcontent">
+<file href=".skin/inactive_previous.gif"/>
+</resource>
+<resource href=".skin/blog.png" identifier="7cb12b30b53adf777f7ebc7861acfd40" type="webcontent">
+<file href=".skin/blog.png"/>
+</resource>
+<resource href="toc.htm" identifier="82546a1fb37cf7d7cf759fedc9768d69" type="webcontent">
+<file href="toc.htm"/>
+</resource>
+<resource href="default.htm" identifier="84f7a0fe63cb13593ea50ea6af93a634" type="webcontent">
+<file href="default.htm"/>
+</resource>
+<resource href=".skin/arc90_extlink.js" identifier="85012d992216eb257e4f065852fb1712" type="webcontent">
+<file href=".skin/arc90_extlink.js"/>
+</resource>
+<resource href=".skin/conflict.gif" identifier="8cded477cf322b1a10b161370298c79e" type="webcontent">
+<file href=".skin/conflict.gif"/>
+</resource>
+<resource href=".skin/default.css" identifier="a00b44cc78332983bb1e8617d7fef195" type="webcontent">
+<file href=".skin/default.css"/>
+</resource>
+<resource href=".skin/email.png" identifier="ac2971415830d4b67015e53cb48ab947" type="webcontent">
+<file href=".skin/email.png"/>
+</resource>
+<resource href=".skin/FolderClosed.gif" identifier="ad3ed8c2d7dcc66bab14cf82c4e746a1" type="webcontent">
+<file href=".skin/FolderClosed.gif"/>
+</resource>
+<resource href=".skin/previous.gif" identifier="aeee5720ce5cacea478153bbdd8adc2c" type="webcontent">
+<file href=".skin/previous.gif"/>
+</resource>
+<resource href=".skin/usq.001.css" identifier="afd0b69550089f2ba11b02d112470f92" type="webcontent">
+<file href=".skin/usq.001.css"/>
+</resource>
+<resource href=".skin/app.css" identifier="b528c31b48122259fa94cbd35995aeed" type="webcontent">
+<file href=".skin/app.css"/>
+</resource>
+<resource href=".skin/transparency.png" identifier="b6593dca2121d2960a54c88a3210bdfa" type="webcontent">
+<file href=".skin/transparency.png"/>
+</resource>
+<resource href=".skin/FolderUp.gif" identifier="b68f4e8e4ba4a1b4719057d43c9e31f5" type="webcontent">
+<file href=".skin/FolderUp.gif"/>
+</resource>
+<resource href=".skin/button_go.jpg" identifier="c03f3f3fac9f108ed7744362b89bc141" type="webcontent">
+<file href=".skin/button_go.jpg"/>
+</resource>
+<resource href=".skin/minimize.gif" identifier="c385fe444dd60abe46990ba4e5e08a7c" type="webcontent">
+<file href=".skin/minimize.gif"/>
+</resource>
+<resource href=".skin/modifications.gif" identifier="c55a0e17d0158d0808cdae63d1fdfa9b" type="webcontent">
+<file href=".skin/modifications.gif"/>
+</resource>
+<resource href=".skin/File.gif" identifier="c7987b17ee425234054678c45c31f7cc" type="webcontent">
+<file href=".skin/File.gif"/>
+</resource>
+<resource href=".skin/button_bg.gif" identifier="c8062b15bea478c3f55d8e46a16c30ab" type="webcontent">
+<file href=".skin/button_bg.gif"/>
+</resource>
+<resource href=".skin/indicator.gif" identifier="c99dd6297cef91c8c40881eb6c5d981f" type="webcontent">
+<file href=".skin/indicator.gif"/>
+</resource>
+<resource href=".skin/move-here.gif" identifier="ccecec312ae8a574c413997e51567c9b" type="webcontent">
+<file href=".skin/move-here.gif"/>
+</resource>
+<resource href=".skin/template.xhtml" identifier="d0b0cd8b52ec4800fc1f64096414fd8a" type="webcontent">
+<file href=".skin/template.xhtml"/>
+</resource>
+<resource href=".skin/usqlogo_line.gif" identifier="dfd292648077295bfc360591656fd324" type="webcontent">
+<file href=".skin/usqlogo_line.gif"/>
+</resource>
+<resource href=".skin/top.gif" identifier="e3c304bdc786147f01e08e7e3e30916c" type="webcontent">
+<file href=".skin/top.gif"/>
+</resource>
+<resource href=".skin/rss.png" identifier="f85270a8671ed6b5dcb03e57bb9b1f4b" type="webcontent">
+<file href=".skin/rss.png"/>
+</resource>
+<resource href=".skin/next.gif" identifier="ff17ecffc19933f4b7bf5d2bc07cd7e0" type="webcontent">
+<file href=".skin/next.gif"/>
+</resource>
+</resources>
+</manifest>
