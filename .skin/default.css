@@ -1,0 +1,103 @@
+.extlinkIMG {
+	background: transparent url(extLink_img.gif) no-repeat top right;
+	margin-left: 2px;
+	height: 12px;
+	width: 12px;
+	cursor: pointer;
+	padding-left: 12px;
+}
+
+.blanklinkIMG {
+	background: transparent url(blankLink_img.gif) no-repeat top right;
+	margin-left: 2px;
+	height: 12px;
+	width: 12px;
+	cursor: pointer;
+	padding-left: 12px;
+}
+
+/* USQ.css override */
+     .body td { vertical-align: top;}
+     .inpt-search {font-size: 9px;}
+ 
+     .toc ul, .context-toc ul
+      {
+        margin-bottom: 0px;
+        padding: 0px;
+      }
+      .toc {
+          background:#FBFCF5;
+       }
+       
+      .mainmenu ul{
+      display: inline;
+      }
+      
+      .spCh {
+      font-family: "Lucida Grande","Arial Unicode MS", sans-serif; font-size: 1.2em;
+      }
+      
+      .breadcrumbs span.current-url{font-weight: 400;}
+      blockquote.bq {border-left: 2px dotted black; padding-left: 4px;}
+
+      .right { text-align: right; }
+      .center {text-align: center;}
+       .body {padding-top: 6px;}
+       
+       dt {
+	    font-weight: bold;
+        }
+ 
+ 
+     a:hover {text-decoration: none;}
+     a:link:hover, a:visited:hover {text-decoration: underline;}
+     
+     a {
+         color:black;
+     }
+ 
+ 
+ H6  {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 1em;
+	color: #000000;
+	font-weight: normal;
+}
+
+sup  {
+	font-size: x-small;
+}
+
+sub  {
+	font-size: x-small;
+}
+
+pre  {
+	font-family: Courier New, Courier, mono;
+	
+}
+
+.small  {
+	font-size: smaller;
+}
+
+/* Activity Tables */
+div.slide, table.note, table.exercise, table.activity, table.reading, table.reflection, table.learning, table.example, table.casestudy, table.discussion {
+	background-color: #FFF9D8;
+	margin-left: 25px;
+	border: 1px solid #C4C2BC;
+}
+
+div.slide, table.note td, table.exercise td, table.activity td, table.reading td, table.reflection td, table.learning td, table.example td, table.casestudy td, table.discussion td{
+	padding: 4px;
+	vertical-align: top;
+}
+
+div.slide h1, table.note h6, table.exercise h6, table.activity h6, table.reading h6, table.reflection h6, table.learning h6, table.example h6, table.casestudy h6, table.discussion h6 {
+	text-align: left;
+	font-weight: bold;
+	padding: 0px;
+	margin-bottom: 0px;
+	font-size: 1.1em;
+}
+

@@ -1,0 +1,229 @@
+/* ICE Application */
+
+
+/* ICE */
+div.toolbar {
+	background: #F1F1F1;
+	padding: 1px;
+	padding-bottom: 2px;
+	margin: 0px;
+	vertical-align: middle;
+   }
+
+.toolbar, .toolbar input, .toolbar button {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;	
+	font-size: 12px;
+	font-family: Tahoma, Helvetica, sans-serif;
+	
+
+}
+
+
+/* browsing navigation */
+li.app-parent {
+    list-style: url('parent.gif');
+    margin-left: 2px;    
+}
+
+li.app-parent-inactive {
+    list-style: url('parent-inactive.gif');
+    margin-left: 2px;    
+}
+
+div.app-file-manager div{
+    padding-bottom: 5px;
+}
+
+.app-label {
+    font-weight: bold;
+}
+
+table.app-file-manager {
+    text-align: left;
+}
+
+table.app-file-manager span.app-parent span{
+	background: url('parent.gif');
+	background-repeat: no-repeat;
+	padding-left: 12px;
+	padding-right: 16px;
+	padding-bottom: 8px;
+	vertical-align: top;
+	width: 24px;
+	height: 24px;
+}
+
+table.app-filemanager span.app-parent-inactive span{
+	background: url('parent-inactive.gif');
+	background-repeat: no-repeat;
+	padding-left: 12px;
+	padding-right: 16px;
+	padding-bottom: 8px;
+	vertical-align: top;
+	width: 24px;
+	height: 24px;
+}
+
+
+
+table.app-item { 
+            background-color: #F6F6F6; 
+            margin-top: 0.4em;
+            width: 550px; 
+              }
+table.app-item td {
+    vertical-align: top;
+}
+              
+td.app-item-select {text-align: left; width: 15px;} 
+
+#editDiv {
+    border:1px solid black; 
+    margin-left:2em; 
+    background-color:#D0D0D0; 
+    display:block; 
+    width: 500px; 
+    padding: 0.2em;
+    padding-left: 0.4em; 
+    margin-top: 0.5em; 
+}
+
+#editDiv h2 {margin-top: 0; padding-top: 0;}
+
+a.app-expand {
+	background: url('expand.gif');
+	background-repeat: no-repeat;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	vertical-align: top;
+	width: 24px;
+	height: 24px;
+}
+
+a:link:hover.app-expand{
+	background-color: none;
+}
+
+a.app-expand span{
+	display: none;
+}
+ 
+a.app-minimize {
+	background: url('minimize.gif');
+	background-repeat: no-repeat;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	vertical-align: top;
+	width: 24px;
+	height: 24px;
+}
+a:link:hover.app-minimize {
+	background-color: #F6F6F6;
+}
+a.app-minimize span{
+	display: none;
+}
+
+a.app-root-move {
+	background: url('root-move-here.gif');
+	background-repeat: no-repeat;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	width: 24px;
+	height: 24px;
+}
+a:link:hover.app-root-move{
+	background-color: white;
+}
+a.app-root-move span{
+	display: none;
+}
+
+a.app-move {
+	background: url('move-here.gif');
+	background-repeat: no-repeat;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	padding-top: 0px;
+	margin-top: 0px;
+	vertical-align: top;
+	width: 24px;
+	height: 24px;
+
+display: inline;
+}
+a:link:hover.app-move{
+	background-color: #F6F6F6;
+}
+a.app-move span{
+	display: none;
+
+}
+
+/* svn status */
+.app-login 
+{
+	color: Red;
+	width: 5em;
+}
+
+.app-logout 
+{
+	color: Blue;
+	width: 5em;
+}
+
+
+span.app-in-sync, span.app-modifications, span.app-out-of-date, span.app-conflicts, span.app-offline, span.app-offline-modifications {
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 12px;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-left: 1px;
+	vertical-align: top;
+	width: 24px;
+	height: 24px;
+}
+
+span.app-online, span-app-offline, span.app-in-sync span, span.app-modifications span, span.app-out-of-date span, span.app-conflicts span, span.app-offline span, span.app-offline-modifications span{
+	display: none;
+}
+
+span.app-in-sync {
+	background: url('ok.gif');
+	background-repeat: no-repeat;
+}
+
+
+span.app-modifications {
+	background: url('modifications.gif');
+	background-repeat: no-repeat;
+}
+
+span.app-out-of-date {
+	background: url('out-of-sync.gif');
+	background-repeat: no-repeat;
+}
+
+span.app-conflicts {
+	background: url('conflict.gif');
+	background-repeat: no-repeat;
+}
+
+span.app-offline {
+	background: url('offline.gif');
+	background-repeat: no-repeat;
+}
+
+span.app-offline-modifications {
+	background: url('offline-modifications.gif');
+	background-repeat: no-repeat;
+}

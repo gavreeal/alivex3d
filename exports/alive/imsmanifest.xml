@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifest SYSTEM "imscp_rootv1p1.dtd">
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="MANIFEST-6971EFA4-1391-578F-D1CE-39875264E76A" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsmd_v1p2 imsmd_v1p2p2.xsd">
+  <metadata>
+  <schema e-dtype="string">IMS Content</schema>
+  <schemaversion e-dtype="string">1.2.2</schemaversion>
+  </metadata>
+  
+<organizations default="default"><organization identifier="default" structure=""><title>ALIVE</title>
+<item identifierref="1250b69d2079a6708c3d00783adcefc2" identifier="default-1250b69d2079a6708c3d00783adcefc2-1" isvisible="false">
+<title>[toc.htm]</title>
+</item>
+<item identifierref="f404743fc9daf7fe66de3ac6ea5bd2bc" identifier="default-f404743fc9daf7fe66de3ac6ea5bd2bc-1" isvisible="false">
+<title>[default.htm]</title>
+</item>
+<item identifierref="fe2e43cdecd1f7847b918fab650e70c3" identifier="default-fe2e43cdecd1f7847b918fab650e70c3-1-default" isvisible="false">
+<title>ALIVE: Advanced Learning and Immersive Virtual Environments</title>
+</item>
+<item identifierref="a55478e172336873b64bd077ac114c84" identifier="default-a55478e172336873b64bd077ac114c84-1" isvisible="false">
+<title>Search results</title>
+</item>
+<item identifierref="baee36febc0727ce65428b75fde3209a" identifier="default-baee36febc0727ce65428b75fde3209a-1" isvisible="true">
+<title>Projects</title>
+</item>
+<item identifierref="f5d1176502ba34224e1d7fb15bfc020a" identifier="default-f5d1176502ba34224e1d7fb15bfc020a-1" isvisible="true">
+<title>ALIVE Classmate</title>
+</item>
+<item identifierref="8339bfe74a95f468a0eb6b7feae44aa4" identifier="default-8339bfe74a95f468a0eb6b7feae44aa4-1" isvisible="true">
+<title>ALIVE DXEditor</title>
+</item>
+<item identifierref="f52198b981257e93ec8d33fc79d4bd9f" identifier="default-f52198b981257e93ec8d33fc79d4bd9f-1" isvisible="true">
+<title>2D/3D Hybrids</title>
+</item>
+<item identifierref="8733c81544780e895926398d76b6a09e" identifier="default-8733c81544780e895926398d76b6a09e-1" isvisible="true">
+<title>The Phoenix Challenge</title>
+</item>
+<item identifierref="48e1774e542c90b8ab4a5b5134b16bd0" identifier="default-48e1774e542c90b8ab4a5b5134b16bd0-1" isvisible="true">
+<title>Gallery</title>
+</item>
+<item identifierref="b61ddb054243eacc8a2f2843eca944bc" identifier="default-b61ddb054243eacc8a2f2843eca944bc-1" isvisible="true">
+<title>Publications</title>
+</item>
+<item identifierref="b3c22564b91be37c9920fdcc8501cb8f" identifier="default-b3c22564b91be37c9920fdcc8501cb8f-1" isvisible="true">
+<title>Download</title>
+</item>
+<item identifierref="b196e5e51b32bc1e592bf763307e311a" identifier="default-b196e5e51b32bc1e592bf763307e311a-1" isvisible="true">
+<title>Contact us</title>
+</item>
+<item identifierref="1ad7263ed0a2f8c7b99be33760f48dc1" identifier="default-1ad7263ed0a2f8c7b99be33760f48dc1-1" isvisible="true">
+<title>Tutorials</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource href=".skin/FolderClosed.gif" identifier="00cd0c4314de123a2806a00ee2f5fcfc" type="webcontent">
+<file href=".skin/FolderClosed.gif"/>
+</resource>
+<resource href=".skin/indicator.gif" identifier="06ec57d8d7adc0d5a44751773268a46e" type="webcontent">
+<file href=".skin/indicator.gif"/>
+</resource>
+<resource href=".skin/blog.png" identifier="0d9804978a6ece4f78d051f8245e265a" type="webcontent">
+<file href=".skin/blog.png"/>
+</resource>
+<resource href=".skin/button_go.jpg" identifier="1050b883c42b94f94fe291fd141c0275" type="webcontent">
+<file href=".skin/button_go.jpg"/>
+</resource>
+<resource href="toc.htm" identifier="1250b69d2079a6708c3d00783adcefc2" type="webcontent">
+<file href="toc.htm"/>
+</resource>
+<resource href=".skin/usqprint.css" identifier="1523cfc6a197d9dca1016d84111ada1f" type="webcontent">
+<file href=".skin/usqprint.css"/>
+</resource>
+<resource href=".skin/usq.001.css" identifier="16ddf3e57897e0b35555e1d44841c5e4" type="webcontent">
+<file href=".skin/usq.001.css"/>
+</resource>
+<resource href=".skin/parent.gif" identifier="18189a791c8a9803a1154bb91b40a7ed" type="webcontent">
+<file href=".skin/parent.gif"/>
+</resource>
+<resource href="tutorials.htm" identifier="1ad7263ed0a2f8c7b99be33760f48dc1" type="webcontent">
+<file href="tutorials.htm"/>
+<file href="tutorials.pdf"/>
+</resource>
+<resource href=".skin/email.png" identifier="1ca5f5352d3a5fbc69da46d872057559" type="webcontent">
+<file href=".skin/email.png"/>
+</resource>
+<resource href=".skin/previous.gif" identifier="25f932eb9f4e033844985300f0bbf73f" type="webcontent">
+<file href=".skin/previous.gif"/>
+</resource>
+<resource href=".skin/parent-inactive.gif" identifier="276f18655253fa356dc6511769d1ad6b" type="webcontent">
+<file href=".skin/parent-inactive.gif"/>
+</resource>
+<resource href=".skin/offline-modifications.gif" identifier="29ae437f3023ea5911abf5d233dd6e7e" type="webcontent">
+<file href=".skin/offline-modifications.gif"/>
+</resource>
+<resource href=".skin/expand.gif" identifier="3962728586bbd349f03b5c38c1387dd2" type="webcontent">
+<file href=".skin/expand.gif"/>
+</resource>
+<resource href=".skin/slideicon.gif" identifier="3d4c60e1bb61885717489741794f9ae4" type="webcontent">
+<file href=".skin/slideicon.gif"/>
+</resource>
+<resource href=".skin/modifications.gif" identifier="4649263f4c53d211f0c1cee22603f620" type="webcontent">
+<file href=".skin/modifications.gif"/>
+</resource>
+<resource href="gallery.htm" identifier="48e1774e542c90b8ab4a5b5134b16bd0" type="webcontent">
+<file href="gallery.htm"/>
+<file href="gallery.pdf"/>
+<file href="gallery_files/1449bffa.jpg"/>
+<file href="gallery_files/1aaf8452.jpg"/>
+<file href="gallery_files/2a5ef8d4.jpg"/>
+<file href="gallery_files/4d74cdf4.jpg"/>
+<file href="gallery_files/m779ec359.jpg"/>
+<file href="gallery_files/m88c030es249x194.jpg"/>
+</resource>
+<resource href=".skin/usqlogo_line.gif" identifier="49734cb1c7d6f1b248d533ec6fe03f7a" type="webcontent">
+<file href=".skin/usqlogo_line.gif"/>
+</resource>
+<resource href=".skin/emailgroup.png" identifier="4bd712d6cef3b0a0c1d322e4f0831394" type="webcontent">
+<file href=".skin/emailgroup.png"/>
+</resource>
+<resource href=".skin/button_hover_bg.gif" identifier="5b62c3a7f88daebdf885366710182962" type="webcontent">
+<file href=".skin/button_hover_bg.gif"/>
+</resource>
+<resource href=".skin/app.css" identifier="5e0f1c7520852fe6c2f02a66a80c2705" type="webcontent">
+<file href=".skin/app.css"/>
+</resource>
+<resource href=".skin/template.xhtml" identifier="60acd6e46d3f072074ecf23217962baa" type="webcontent">
+<file href=".skin/template.xhtml"/>
+</resource>
+<resource href=".skin/root-move-here.gif" identifier="65f1af02f4a840f3f44b3c8d7fca2318" type="webcontent">
+<file href=".skin/root-move-here.gif"/>
+</resource>
+<resource href=".skin/button_bg.gif" identifier="661e9fc3098e285258e17d0874c723af" type="webcontent">
+<file href=".skin/button_bg.gif"/>
+</resource>
+<resource href=".skin/minimize.gif" identifier="675ab926f42520e646d3f9aa6acf7791" type="webcontent">
+<file href=".skin/minimize.gif"/>
+</resource>
+<resource href=".skin/top.gif" identifier="6bee087e7f18ce605667c21aa9931716" type="webcontent">
+<file href=".skin/top.gif"/>
+</resource>
+<resource href=".skin/rss.png" identifier="6c2604172aa082e875f3df9b87835e5f" type="webcontent">
+<file href=".skin/rss.png"/>
+</resource>
+<resource href="editor.htm" identifier="8339bfe74a95f468a0eb6b7feae44aa4" type="webcontent">
+<file href="editor.htm"/>
+<file href="editor.pdf"/>
+<file href="editor_files/m28f93fe2s131x131.jpg"/>
+<file href="editor_files/m2fca197fs131x131.jpg"/>
+<file href="editor_files/m3f18dc57s131x131.jpg"/>
+<file href="editor_files/m456131dds131x131.jpg"/>
+</resource>
+<resource href=".skin/button_hover.gif" identifier="8595f1e6599c0ff05ace1430d134e545" type="webcontent">
+<file href=".skin/button_hover.gif"/>
+</resource>
+<resource href="phoenix.htm" identifier="8733c81544780e895926398d76b6a09e" type="webcontent">
+<file href="phoenix.htm"/>
+<file href="phoenix.pdf"/>
+<file href="phoenix_files/m26c31cfes467x375.jpg"/>
+</resource>
+<resource href=".skin/usq.css" identifier="873d3104600f0d970e94834449a7c0b4" type="webcontent">
+<file href=".skin/usq.css"/>
+</resource>
+<resource href=".skin/up.gif" identifier="8b07bff0c0540642c94f815a77c0c3a9" type="webcontent">
+<file href=".skin/up.gif"/>
+</resource>
+<resource href=".skin/offline.gif" identifier="9110d0e7350d8d2a15a1dc8d115ad9a3" type="webcontent">
+<file href=".skin/offline.gif"/>
+</resource>
+<resource href=".skin/extLink_img.gif" identifier="953bf461be3cda8ef9d4d99444faf92b" type="webcontent">
+<file href=".skin/extLink_img.gif"/>
+</resource>
+<resource href=".skin/alive.jpg" identifier="9757bee09a5949b47cbef5c06c20c849" type="webcontent">
+<file href=".skin/alive.jpg"/>
+</resource>
+<resource href=".skin/move-here.gif" identifier="97a8f9d022d8f53b0b2f7ad01467fa8a" type="webcontent">
+<file href=".skin/move-here.gif"/>
+</resource>
+<resource href=".skin/next.gif" identifier="9a3fbf86b8d91c0f2de89b81c9a7aece" type="webcontent">
+<file href=".skin/next.gif"/>
+</resource>
+<resource href=".skin/slide.css" identifier="9a9c31f39d220f25abf50a4166450e66" type="webcontent">
+<file href=".skin/slide.css"/>
+</resource>
+<resource href=".skin/ok.gif" identifier="a3788285e1cfd97eda41e51c26faf162" type="webcontent">
+<file href=".skin/ok.gif"/>
+</resource>
+<resource href=".skin/transparency.png" identifier="a50c6dedeb676b78c7fc9402fbf64ce0" type="webcontent">
+<file href=".skin/transparency.png"/>
+</resource>
+<resource href="search/results.htm" identifier="a55478e172336873b64bd077ac114c84" type="webcontent">
+<file href="search/results.htm"/>
+<file href="search/results.pdf"/>
+</resource>
+<resource href=".skin/out-of-sync.gif" identifier="a7423c5dcc1f4fadcb4de532642dc94e" type="webcontent">
+<file href=".skin/out-of-sync.gif"/>
+</resource>
+<resource href=".skin/File.gif" identifier="a981a2f4fc169b70b5bcd912150c43e6" type="webcontent">
+<file href=".skin/File.gif"/>
+</resource>
+<resource href=".skin/template-login.xhtml" identifier="adf148d82cb2f3913874c9ffb5655946" type="webcontent">
+<file href=".skin/template-login.xhtml"/>
+</resource>
+<resource href="contactus.htm" identifier="b196e5e51b32bc1e592bf763307e311a" type="webcontent">
+<file href="contactus.htm"/>
+<file href="contactus.pdf"/>
+<file href="contactus_files/1697abc5s133x133.jpg"/>
+<file href="contactus_files/74d8f9ees133x133.jpg"/>
+<file href="contactus_files/m508dd174s133x133.jpg"/>
+<file href="contactus_files/m52c19f75s133x133.jpg"/>
+<file href="contactus_files/mc9b1a24s133x133.jpg"/>
+</resource>
+<resource href="download.htm" identifier="b3c22564b91be37c9920fdcc8501cb8f" type="webcontent">
+<file href="download.htm"/>
+<file href="download.pdf"/>
+</resource>
+<resource href=".skin/conflict.gif" identifier="b5b3294befedd9c1e0842d1957a1eb9d" type="webcontent">
+<file href=".skin/conflict.gif"/>
+</resource>
+<resource href="publications.htm" identifier="b61ddb054243eacc8a2f2843eca944bc" type="webcontent">
+<file href="publications.htm"/>
+<file href="publications.pdf"/>
+</resource>
+<resource href=".skin/inactive_previous.gif" identifier="b82e8a1e156d5d153876e9c28b84a069" type="webcontent">
+<file href=".skin/inactive_previous.gif"/>
+</resource>
+<resource href="projects.htm" identifier="baee36febc0727ce65428b75fde3209a" type="webcontent">
+<file href="projects.htm"/>
+<file href="projects.pdf"/>
+<file href="projects_files/m31721885.jpg"/>
+<file href="projects_files/m322008e8s267x219.jpg"/>
+<file href="projects_files/m6e37f3f9.jpg"/>
+<file href="projects_files/m779ec359.jpg"/>
+<file href="projects_files/m88c030es267x208.jpg"/>
+</resource>
+<resource href=".skin/inactive_next.gif" identifier="be43a856f1d1b72163b722201bee6c40" type="webcontent">
+<file href=".skin/inactive_next.gif"/>
+</resource>
+<resource href=".skin/inactive_up.gif" identifier="bf88670d41e602e4df03eb5673fd0584" type="webcontent">
+<file href=".skin/inactive_up.gif"/>
+</resource>
+<resource href=".skin/logo.jpg" identifier="cc0d202c2dcaf14f20c01e9961ecc7c3" type="webcontent">
+<file href=".skin/logo.jpg"/>
+</resource>
+<resource href=".skin/pdf.gif" identifier="d22c7021e1e205749249d289116ceb1b" type="webcontent">
+<file href=".skin/pdf.gif"/>
+</resource>
+<resource href=".skin/blankLink_img.gif" identifier="d2e448e598523dd23389368e8c3f6cc2" type="webcontent">
+<file href=".skin/blankLink_img.gif"/>
+</resource>
+<resource href=".skin/default.css" identifier="dee4f98fc6c3371c5ee43a88b38ff89e" type="webcontent">
+<file href=".skin/default.css"/>
+</resource>
+<resource href=".skin/source.gif" identifier="dfff93e55e10e2daa7f67569bb6b312b" type="webcontent">
+<file href=".skin/source.gif"/>
+</resource>
+<resource href=".skin/urchin.js" identifier="e1066ca500b42d5c5009304fdacad2d2" type="webcontent">
+<file href=".skin/urchin.js"/>
+</resource>
+<resource href=".skin/FolderUp.gif" identifier="e90ad88fc151b926d0c6ba95f9b13b2c" type="webcontent">
+<file href=".skin/FolderUp.gif"/>
+</resource>
+<resource href=".skin/arc90_extlink.js" identifier="f12d0bd5401233402174fa6d91f87a1f" type="webcontent">
+<file href=".skin/arc90_extlink.js"/>
+</resource>
+<resource href="default.htm" identifier="f404743fc9daf7fe66de3ac6ea5bd2bc" type="webcontent">
+<file href="default.htm"/>
+</resource>
+<resource href="hybrids.htm" identifier="f52198b981257e93ec8d33fc79d4bd9f" type="webcontent">
+<file href="hybrids.htm"/>
+<file href="hybrids.pdf"/>
+<file href="hybrids_files/2a5ef8d4s231x246.jpg"/>
+<file href="hybrids_files/dc9312e.jpg"/>
+<file href="hybrids_files/m60cf4015s232x230.jpg"/>
+</resource>
+<resource href="classmate.htm" identifier="f5d1176502ba34224e1d7fb15bfc020a" type="webcontent">
+<file href="classmate.htm"/>
+<file href="classmate.pdf"/>
+<file href="classmate_files/30f47a9e.jpg"/>
+<file href="classmate_files/343f00ds131x99.jpg"/>
+<file href="classmate_files/3e538eces131x99.jpg"/>
+<file href="classmate_files/m319bd575s131x99.jpg"/>
+<file href="classmate_files/m4a73de12.jpg"/>
+<file href="classmate_files/m60acc890s131x99.jpg"/>
+</resource>
+<resource href="home.htm" identifier="fe2e43cdecd1f7847b918fab650e70c3" type="webcontent">
+<file href="home.htm"/>
+<file href="home.pdf"/>
+<file href="home_files/3e8aa322.jpg"/>
+<file href="home_files/6bcd8390s104x44.jpg"/>
+<file href="home_files/m18e94547s161x35.jpg"/>
+<file href="home_files/m50726cb4s240x283.jpg"/>
+<file href="home_files/m5a64aeb5s173x34.jpg"/>
+<file href="home_files/m6d30c875.png"/>
+<file href="home_files/ma59da06.png"/>
+</resource>
+<resource href=".skin/slideous.js" identifier="fe5869a2a34776f7d2d692ec3dab3fc5" type="webcontent">
+<file href=".skin/slideous.js"/>
+</resource>
+</resources>
+</manifest>

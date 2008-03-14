@@ -1,0 +1,14 @@
+.header_search {
+	display: none;
+}
+.menubar, .leftcol , .rightcol, .mainbanner, .mainmenu, .whatsnew, .relatedlinks{
+	display:none;
+}
+.middlecol, .cmscontent{
+ 	padding: 0px 0px;
+	margin-right: 5px;
+	background-color: white;
+}
+.noprint {
+	display: none;
+}
