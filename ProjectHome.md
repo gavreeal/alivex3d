@@ -1,0 +1,1 @@
+The Advanced Learning and Immersive Virtual Environments (ALIVE) Project started by Dr Penny de Byl and colleagues at the University of Southern Queensland. For more information see http://www.alivex3d.org/
